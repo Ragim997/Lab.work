@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalConverter</string>
+    <string name="Hello">Hello! What units of measure do you want to convert?</string>
+    <string name="Soon">More units coming soon...</string>
+    <string name="txtFrom">From:</string>
+    <string name="txtTo">To:</string>
+    <string name="txtLength">Length</string>
+    <string name="txtWeight">Weight</string>
+    <string name="txtTime">Time</string>
+    <string name="buttonConvert">Convert</string>
+    <string name="buttonLength">Length</string>
+    <string name="buttonWeight">Weight</string>
+    <string name="buttonTime">Time</string>
+    <string name="buttonToLength">Go to length</string>
+    <string name="buttonToWeight">Go to weigth</string>
+    <string name="buttonToTime">Go to time</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="txtAmount">Amount:</string>
+    <string name="txtPrice">Price:</string>
+    <string name="txtApple">Apple</string>
+    <string name="txtStrawberry">Strawberry</string>
+    <string name="txtBlueberry">Blueberry</string>
+    <string name="txtPotatoes">Potatoes</string>
+    <string name="txtResult">Result:</string>
+    <string name="txtShowResult">Show result in:</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="switchWindow">Additional window</string>
+    <string name="switchToast">Notification</string>
+</resources>
